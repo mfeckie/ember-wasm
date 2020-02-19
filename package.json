@@ -57,6 +57,7 @@
     "loader.js": "^4.7.0",
     "qunit-dom": "^1.0.0",
     "rust-uuid": "./rust-uuid/pkg",
+    "rust-plotter": "./rust-plotter/pkg",
     "typescript": "^3.7.5"
   },
   "engines": {

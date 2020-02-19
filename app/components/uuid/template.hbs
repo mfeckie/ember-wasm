@@ -1,0 +1,11 @@
+{{#if this.showButton}}
+  <button type="button" disabled={{this.notReady}} {{on "click" this.genV4}}>
+    Generate UUID v4
+  </button>
+{{/if}}
+<p>
+  Generated UUID:
+  <span>
+    {{this.uuid}}
+  </span>
+</p>

@@ -1,8 +1,8 @@
 {
-  "name": "ember-wasn",
+  "name": "ember-wasm",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for ember-wasn goes here",
+  "description": "Small description for ember-wasm goes here",
   "repository": "",
   "license": "MIT",
   "author": "",

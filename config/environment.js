@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-wasn',
+    modulePrefix: 'ember-wasm',
     environment,
     rootURL: '/',
     locationType: 'auto',

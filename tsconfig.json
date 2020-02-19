@@ -20,10 +20,10 @@
     "module": "esnext",
     "experimentalDecorators": true,
     "paths": {
-      "ember-wasn/tests/*": [
+      "ember-wasm/tests/*": [
         "tests/*"
       ],
-      "ember-wasn/*": [
+      "ember-wasm/*": [
         "app/*"
       ],
       "*": [
